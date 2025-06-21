@@ -19,6 +19,9 @@
 
 ---
 
+
+![屏幕截图 2025-06-21 221934](https://github.com/user-attachments/assets/8e7d1cc3-0c93-4369-b7b1-1ba2b0447195)
+
 ## 📦 Installation / 安装方法
 
 1. Clone the repository / 克隆仓库:
@@ -37,6 +40,7 @@
    ```bash
    pip install -r requirements.txt
    ```
+
 
 ---
 
