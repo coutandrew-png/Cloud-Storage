@@ -9,7 +9,7 @@
 ## ✨ Features / 功能特点
 
 - User registration and login / 用户注册与登录
-- Personal file upload, download, and sharing / 个人文件上传、下载、分享
+- Personal file upload, download, 和 sharing / 个人文件上传、下载、分享
 - Public cloud area / 公共云盘文件区域
 - Admin dashboard with logs / 管理员日志与用户文件总览
 - File transfer between users / 用户之间的文件发送功能
@@ -23,7 +23,7 @@
 
 1. Clone the repository / 克隆仓库:
    ```bash
-   git clone https://github.com/yourusername/cloud-drive-lan.git
+   git clone https://github.com/coutandrew-png/Cloud-Storage.git
    cd cloud-drive-lan
    ```
 
