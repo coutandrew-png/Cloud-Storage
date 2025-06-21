@@ -18,10 +18,13 @@
 - Real-time LAN speed display / 局域网内实时网速检测显示
 
 ---
-
+## 🖼️ screenshots / 截图
 
 ![屏幕截图 2025-06-21 221934](https://github.com/user-attachments/assets/8e7d1cc3-0c93-4369-b7b1-1ba2b0447195)
+![屏幕截图 2025-06-21 221906](https://github.com/user-attachments/assets/67d9ea5e-93b8-4d34-ba2c-aaf3e9c5020a)
+![屏幕截图 2025-06-21 221948](https://github.com/user-attachments/assets/addfe0d4-8828-4ce3-b0af-be27637ae077)
 
+---
 ## 📦 Installation / 安装方法
 
 1. Clone the repository / 克隆仓库:
